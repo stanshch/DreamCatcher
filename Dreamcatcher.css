@@ -1,0 +1,23 @@
+@font-face{
+  font-family:"Beowulf";
+	src:url('C:/Users/JGSACKIN/Documents/Fonts/BEOWULF_.eot');
+	src:local('BEOWULF_'), url('C:/Users/JGSACKIN/Documents/Fonts/BEOWULF_.ttf') format(truetype), url('C:/Users/JGSACKIN/Documents/Fonts/BEOWULF_.svg') format(svg);
+}
+
+.heading{
+	font-family: Beowulf;
+	text-align: center;
+	font-size:50px;
+	-webkit-opacity:1;
+	opacity:1;
+	-webkit-transition: all 3s ease;
+	transition: all 3s ease;
+}
+
+.pic{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:25%;
+	height:25%;
+}
